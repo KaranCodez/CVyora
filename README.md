@@ -1,5 +1,5 @@
-<h1 align="center">:handshake: :heart:
- Cyora ✨</h1>
+<h1 align="center"> ## <img src="https://unpkg.com/lucide-static/icons/heart-handshake.svg" width="24" height="24" alt="Heart Handshake Icon"/> Let's Collaborate!
+Cyora ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
