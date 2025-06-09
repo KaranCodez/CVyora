@@ -1,22 +1,28 @@
-<h1 align="center"> ## <img src="https://unpkg.com/lucide-static/icons/heart-handshake.svg" width="24" height="24" alt="Heart Handshake Icon"/> Let's Collaborate!
-Cyora ✨</h1>
+<h1 align="center"> ❤️🫱🏻‍🫲🏼Cyora - Start learning with adventure </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/readme_pic1.png)
+![Demo App](/frontend/public/readme_pic2.png)
 
-Highlights:
+🌐 Real-time messaging with typing indicators and emoji reactions
 
-- 🌐 Real-time Messaging with Typing Indicators & Reactions
-- 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
-- 🔐 JWT Authentication & Protected Routes
-- 🌍 Language Exchange Platform with 32 Unique UI Themes
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
-- 🧠 Global State Management with Zustand
-- 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
-- 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+📹 One-on-one and group video calls with screen sharing and recording
 
----
+🔐 Secure JWT authentication with protected routes
+
+🌍 Language exchange platform featuring 32 customizable UI themes
+
+⚡ Tech stack: React, Express, MongoDB, TailwindCSS, TanStack Query
+
+🧠 Global state management using Zustand
+
+🚨 Comprehensive error handling on both frontend and backend
+
+🚀 Free and scalable deployment
+
+🎯 Powered by Stream for chat and video APIs
+
+⏳ Designed for scalability, performance, and user engagement
+
 
 ## 🧪 .env Setup
 
