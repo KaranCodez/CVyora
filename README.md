@@ -1,7 +1,7 @@
 <h1 align="center"> ❤️🫱🏻‍🫲🏼Cyora - Start learning with adventure </h1>
 
-![Demo App](/frontend/public/readme_pic1.png)
-![Demo App](/frontend/public/readme_pic2.png)
+![Demo App](/frontend/public/readme_pic1.jpg)
+![Demo App](/frontend/public/readme_pic2.jpg)
 
 🌐 Real-time messaging with typing indicators and emoji reactions
 
