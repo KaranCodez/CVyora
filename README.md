@@ -1,4 +1,4 @@
-<h1 align="center"> ❤️🫱🏻‍🫲🏼Cyora - Start learning with adventure </h1>
+<h1 align="center"> Start learning with adventure at CVyora❤️🫱🏻‍🫲🏼 </h1>
 
 ![Demo App](/frontend/public/readme_pic1.jpg)
 ![Demo App](/frontend/public/readme_pic2.jpg)
